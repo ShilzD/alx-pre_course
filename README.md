@@ -1,1 +1,2 @@
-my second commit
+My first readme
+requested update 
